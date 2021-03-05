@@ -1,0 +1,15 @@
+C:\projetos\CpmPedidos\CpmPedidos.Interface\bin\Debug\net5.0\CpmPedidos.Interface.deps.json
+C:\projetos\CpmPedidos\CpmPedidos.Interface\bin\Debug\net5.0\CpmPedidos.Interface.dll
+C:\projetos\CpmPedidos\CpmPedidos.Interface\bin\Debug\net5.0\ref\CpmPedidos.Interface.dll
+C:\projetos\CpmPedidos\CpmPedidos.Interface\bin\Debug\net5.0\CpmPedidos.Interface.pdb
+C:\projetos\CpmPedidos\CpmPedidos.Interface\bin\Debug\net5.0\CpmPedidos.Domain.dll
+C:\projetos\CpmPedidos\CpmPedidos.Interface\bin\Debug\net5.0\CpmPedidos.Domain.pdb
+C:\projetos\CpmPedidos\CpmPedidos.Interface\obj\Debug\net5.0\CpmPedidos.Interface.csprojAssemblyReference.cache
+C:\projetos\CpmPedidos\CpmPedidos.Interface\obj\Debug\net5.0\CpmPedidos.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\CpmPedidos\CpmPedidos.Interface\obj\Debug\net5.0\CpmPedidos.Interface.AssemblyInfoInputs.cache
+C:\projetos\CpmPedidos\CpmPedidos.Interface\obj\Debug\net5.0\CpmPedidos.Interface.AssemblyInfo.cs
+C:\projetos\CpmPedidos\CpmPedidos.Interface\obj\Debug\net5.0\CpmPedidos.Interface.csproj.CoreCompileInputs.cache
+C:\projetos\CpmPedidos\CpmPedidos.Interface\obj\Debug\net5.0\CpmPedidos.Interface.csproj.CopyComplete
+C:\projetos\CpmPedidos\CpmPedidos.Interface\obj\Debug\net5.0\CpmPedidos.Interface.dll
+C:\projetos\CpmPedidos\CpmPedidos.Interface\obj\Debug\net5.0\ref\CpmPedidos.Interface.dll
+C:\projetos\CpmPedidos\CpmPedidos.Interface\obj\Debug\net5.0\CpmPedidos.Interface.pdb
