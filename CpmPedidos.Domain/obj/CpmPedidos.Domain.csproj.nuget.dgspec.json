@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projetos\\CpmPedidos\\CpmPedidos.Domain\\CpmPedidos.Domain.csproj": {}
+    "C:\\Projeto\\CpmPedidos\\CpmPedidos.Domain\\CpmPedidos.Domain.csproj": {}
   },
   "projects": {
-    "C:\\projetos\\CpmPedidos\\CpmPedidos.Domain\\CpmPedidos.Domain.csproj": {
+    "C:\\Projeto\\CpmPedidos\\CpmPedidos.Domain\\CpmPedidos.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projetos\\CpmPedidos\\CpmPedidos.Domain\\CpmPedidos.Domain.csproj",
+        "projectUniqueName": "C:\\Projeto\\CpmPedidos\\CpmPedidos.Domain\\CpmPedidos.Domain.csproj",
         "projectName": "CpmPedidos.Domain",
-        "projectPath": "C:\\projetos\\CpmPedidos\\CpmPedidos.Domain\\CpmPedidos.Domain.csproj",
-        "packagesPath": "C:\\Users\\ADD\\.nuget\\packages\\",
-        "outputPath": "C:\\projetos\\CpmPedidos\\CpmPedidos.Domain\\obj\\",
+        "projectPath": "C:\\Projeto\\CpmPedidos\\CpmPedidos.Domain\\CpmPedidos.Domain.csproj",
+        "packagesPath": "C:\\Users\\esver\\.nuget\\packages\\",
+        "outputPath": "C:\\Projeto\\CpmPedidos\\CpmPedidos.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\ADD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\esver\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -58,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

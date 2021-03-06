@@ -7,3 +7,12 @@ C:\projetos\CpmPedidos\CpmPedidos.Domain\obj\Debug\netcoreapp3.1\CpmPedidos.Doma
 C:\projetos\CpmPedidos\CpmPedidos.Domain\obj\Debug\netcoreapp3.1\CpmPedidos.Domain.csproj.CoreCompileInputs.cache
 C:\projetos\CpmPedidos\CpmPedidos.Domain\obj\Debug\netcoreapp3.1\CpmPedidos.Domain.dll
 C:\projetos\CpmPedidos\CpmPedidos.Domain\obj\Debug\netcoreapp3.1\CpmPedidos.Domain.pdb
+C:\Projeto\CpmPedidos\CpmPedidos.Domain\bin\Debug\netcoreapp3.1\CpmPedidos.Domain.deps.json
+C:\Projeto\CpmPedidos\CpmPedidos.Domain\bin\Debug\netcoreapp3.1\CpmPedidos.Domain.dll
+C:\Projeto\CpmPedidos\CpmPedidos.Domain\bin\Debug\netcoreapp3.1\CpmPedidos.Domain.pdb
+C:\Projeto\CpmPedidos\CpmPedidos.Domain\obj\Debug\netcoreapp3.1\CpmPedidos.Domain.AssemblyInfoInputs.cache
+C:\Projeto\CpmPedidos\CpmPedidos.Domain\obj\Debug\netcoreapp3.1\CpmPedidos.Domain.AssemblyInfo.cs
+C:\Projeto\CpmPedidos\CpmPedidos.Domain\obj\Debug\netcoreapp3.1\CpmPedidos.Domain.csproj.CoreCompileInputs.cache
+C:\Projeto\CpmPedidos\CpmPedidos.Domain\obj\Debug\netcoreapp3.1\CpmPedidos.Domain.dll
+C:\Projeto\CpmPedidos\CpmPedidos.Domain\obj\Debug\netcoreapp3.1\CpmPedidos.Domain.pdb
+C:\Projeto\CpmPedidos\CpmPedidos.Domain\obj\Debug\netcoreapp3.1\CpmPedidos.Domain.csprojAssemblyReference.cache

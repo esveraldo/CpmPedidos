@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7Td+cBWZ6JhLfGWpqUgvjiTS3l/EJphHqw7pm96Bh5T7LHnNWJWQA/BxP/xJojFtAPnZ86S6mxbkNFYFr/o7gg==",
+  "dgSpecHash": "XtnFTB1X7XPayiSNEYD1QodQP9HcLDvnkS91obSG/ec1SwSeMxkzE8hzk6j/G2DRZubf3y6i6X0KAKL+SEuQ5w==",
   "success": true,
-  "projectFilePath": "C:\\projetos\\CpmPedidos\\CpmPedidos.Domain\\CpmPedidos.Domain.csproj",
+  "projectFilePath": "C:\\Projeto\\CpmPedidos\\CpmPedidos.Domain\\CpmPedidos.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

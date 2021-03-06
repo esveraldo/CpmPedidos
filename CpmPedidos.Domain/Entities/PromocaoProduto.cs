@@ -12,7 +12,7 @@ namespace CpmPedidos.Domain.Entities
         public int ImagemId { get; set; }
         public virtual Imagem Imagem { get; set; }
         public int ProdutoId { get; set; }
-        public virtual Produto Produto { get; set; }
+        public virtual Produto Produtos { get; set; }
         public bool Ativo { get; set; }
     }
 }

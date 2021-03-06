@@ -18,4 +18,8 @@
     <ProjectReference Include="..\CpmProdutos.Repository\CpmProdutos.Repository.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
 </Project>

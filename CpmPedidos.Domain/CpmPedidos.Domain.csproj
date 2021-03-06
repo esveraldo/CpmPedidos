@@ -5,10 +5,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Maps\**" />
+    <EmbeddedResource Remove="Maps\**" />
+    <None Remove="Maps\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="Dtos\" />
-    <Folder Include="Entities\" />
     <Folder Include="Enums\" />
-    <Folder Include="Maps\" />
   </ItemGroup>
 
 </Project>

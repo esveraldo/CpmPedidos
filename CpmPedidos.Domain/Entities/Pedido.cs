@@ -7,7 +7,7 @@ namespace CpmPedidos.Domain.Entities
 {
     public class Pedido : BaseDomain
     {
-        public string Nome { get; set; }
+        public string Numero { get; set; }
         public decimal ValorTotal { get; set; }
         public TimeSpan Entrega { get; set; }
         public int ClienteId { get; set; }
